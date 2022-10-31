@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: white;
+    color: white;
+}
+
+h1 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+.container {
+    margin-top: 50px;
+    width: 1400px;
+    height: auto;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding-top: 100px;
+    border: 2px dashed aqua;
+}
+
+.bt {
+    background-color: rgb(69, 120, 248);
+    width: 7vw;
+}
+
+#input-box {
+    height: 50px;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: right;
+    background-color: black;
+    border-radius: 5px;
+    font-size: 30px;
+    width: 300px;
+    color: greenyellow;
+}
+
+.row .col .button {
+    color: black;
+    width: 4vw;
+    margin: 4px 2px;
+    border: none;
+    padding: 10px;
+}
+
+.r1 {
+    padding: 6px;
+    width: 5vw;
+    margin: 5px;
+    border-radius: 10px;
+
+}
+
+.bt {
+    padding: 5px;
+    width: 7vw;
+    margin: 3px;
+    border-radius: 10px;
+}
+.btx button{
+    width: 80px;
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
+.history {
+    border: 1px solid black;
+    height: 270px;
+    width: 50vh;
+    background-color: black;
+    color: greenyellow;
+    margin-bottom: 150px;
+    display: inline-block;
+    bottom: 500px;
+    border-radius: 25px;
+}
+.boton {
+    margin-top: 5px;
+    margin-left: 6px;
+    width: 75px;
+    height: 40px;
+    color: black;
+    background-color: aliceblue;
+}
